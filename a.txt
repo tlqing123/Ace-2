@@ -1,2 +1,2 @@
-asdfasdg frtgh ncv
+公钥设置成功！
 hello.world!
